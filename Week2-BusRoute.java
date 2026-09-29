@@ -1,9 +1,9 @@
 
-package busprogram;
+package busroute;
 
 import java.util.Scanner;
 
-public class BusProgram {
+public class BusRoute {
 
    
     public static void main(String[] args) {
