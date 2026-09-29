@@ -1,5 +1,5 @@
 
-package SuperLig;
+package superlig;
 
 import java.util.Scanner;
 
