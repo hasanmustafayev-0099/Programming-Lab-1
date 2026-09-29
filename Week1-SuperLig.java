@@ -1,9 +1,9 @@
 
-package mackolik;
+package SuperLig;
 
 import java.util.Scanner;
 
-public class Mackolik {
+public class SuperLig {
 
     
     public static void main(String[] args) { Scanner scanner = new Scanner(System.in);
